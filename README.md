@@ -1,4 +1,4 @@
-# PyShort 
+# Python-shorturl - URL Shortener With Python 
  Ted's simple url shortener 
  Written in Python 
 
