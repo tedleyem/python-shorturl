@@ -1,10 +1,13 @@
 # PyShort 
  Ted's simple url shortener 
+ Written in Python 
+
+
+[Live Demo Link Coming Soon]()
 
 ### Screenshots
 ![Screenshot](screenshots/page.png)
 
-[Live Demo Link Coming Soon][]
 
 ### Quick Start
 
