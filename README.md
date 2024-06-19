@@ -1,13 +1,14 @@
-# Python-shorturl - URL Shortener With Python 
- Ted's simple url shortener 
- Written in Python 
-
+# Python-shorturl - URL Shortener With Python
+ Ted's simple url shortener
+ Written in Python
 
 [Live Demo Link Coming Soon]()
 
 ### Screenshots
 ![Screenshot](screenshots/page.png)
 
+### Quick Docker Run
+$ docker run tedleyem/python-shorturl:latest
 
 ### Quick Start
 
@@ -35,9 +36,9 @@
 
 6. Navigate to [http://localhost:5000](http://localhost:5000)
 
-### Docker 
+### Docker
  ```
- $ docker-compose up -d 
+ $ docker-compose up -d
  ```
 
 
