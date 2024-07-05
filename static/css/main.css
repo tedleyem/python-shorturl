@@ -27,7 +27,13 @@ a {
   color: #FFF;
 }
 /* Main elements end */
-
+/* Modify the background colors */
+.custom-gray {
+  background-color: #2d2e32;
+}
+.custom-green {
+  background-color: #4dba87;
+}
 
 /*****************************************************************************
  * Various other styles
@@ -36,6 +42,6 @@ a {
 .copyleft {
       display:inline-block;
         transform: rotate(180deg);
-        
+
 }
 /* Various other styles end */
